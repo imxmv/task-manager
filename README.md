@@ -4,6 +4,7 @@ Task manager with the ability to select a date in the calendar and store persona
 Used technologies:
 - Angular
 - TypeScript
+- RxJS
 - Moment.js
 
 Demo: https://task-manager-236a7.firebaseapp.com/
